@@ -31,7 +31,9 @@ Tailwind CSS
 ## Screenshots
 
 ![netflix landingpage](https://user-images.githubusercontent.com/107913841/210036913-1aa9dc62-368d-4ada-9224-fd5c4da592b1.png)
+
 ![netflix page](https://user-images.githubusercontent.com/107913841/210036919-f98e6d53-edb2-4af5-9ca1-4681e2103fb1.png)
+
 ![netflix videoPlay](https://user-images.githubusercontent.com/107913841/210036925-3341cdae-6baf-402b-bc1f-5ebbba725dec.png)
 
 # Getting Started with Create React App
