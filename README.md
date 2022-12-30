@@ -1,3 +1,39 @@
+# Netflix (a movie trailer apllication)
+
+Netflix is a movie trailer appliction. where the new movies tittle and description come according to new movies and we can watch the trailer or the relating videos in this application.
+
+## Features 
+
+Movie trailor app
+
+Api integration of TMDB(Movie Database)
+
+Designed similar to Netflix app
+
+
+## Used Technology 
+
+React Js 
+
+Node Js 
+
+MongoDB 
+
+Express JS 
+
+Javascript 
+
+Axios 
+
+Tailwind CSS 
+
+
+## Screenshots
+
+![netflix landingpage](https://user-images.githubusercontent.com/107913841/210036913-1aa9dc62-368d-4ada-9224-fd5c4da592b1.png)
+![netflix page](https://user-images.githubusercontent.com/107913841/210036919-f98e6d53-edb2-4af5-9ca1-4681e2103fb1.png)
+![netflix videoPlay](https://user-images.githubusercontent.com/107913841/210036925-3341cdae-6baf-402b-bc1f-5ebbba725dec.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +104,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 🚀 About Me
+I'm Beffin Yohannan, Passionate full stack developer...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://beffinyohannan.github.io/beffinyohannan/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/beffin-yohannan)
