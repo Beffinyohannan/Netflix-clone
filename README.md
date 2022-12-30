@@ -1,4 +1,4 @@
-# Netflix (a movie trailer apllication)
+# Netflix (a movie trailer application)
 
 Netflix is a movie trailer appliction. where the new movies tittle and description come according to new movies and we can watch the trailer or the relating videos in this application.
 
